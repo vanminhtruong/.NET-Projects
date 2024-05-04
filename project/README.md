@@ -10,11 +10,6 @@ This project is intended to serve as a long-term resource for small .NET web mon
 - ASP.NET 5.0 MVC with Entity Framwork Core
 - Standard Razor views with Bootstrap 5
 
-## Video Series
-
-I created a YouTube series when I started this application: [YouTube link](https://www.youtube.com/watch?v=WTVcLFTgDqs)
-The application has since been migrated to .NET 5.0 with significant changes to architecture and implementation.  A new video series is in the works.
-
 ## Documentatin (WIP)
 
 ### Library Branch Management
